@@ -84,7 +84,7 @@ Abrí **http://localhost:3000**. No hace falta ejecutar `npm install` porque el 
 ```dotenv
 PORT=3000
 CONTACT_TO=maryorism6@gmail.com
-RESEND_API_KEY=re_TU_CLAVE_PRIVADA
+RESEND_API_KEY=TU_CLAVE_RESEND_AQUI
 RESEND_FROM=Consultora UX <onboarding@resend.dev>
 ALLOWED_ORIGINS=
 TRUST_PROXY=false

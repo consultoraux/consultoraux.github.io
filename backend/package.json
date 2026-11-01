@@ -1,0 +1,14 @@
+{
+  "name": "consultora-ux-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web y API de contacto sin dependencias externas para Consultora UX",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": { "node": ">=22" },
+  "license": "UNLICENSED"
+}
